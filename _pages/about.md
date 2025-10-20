@@ -27,7 +27,7 @@ announcements:
   limit: 3 # leave blank to include all the blog posts-->
 ---
 
-Hi, I am Gözde Sert. I am currently in my fifth-year. Advised .....
+Hi, I am Gözde Sert. I am currently in my fifth-year in the <span style="color:gozde-color-font">Texas A&M Statistics</span>. Advised .....
 
 <!--Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
