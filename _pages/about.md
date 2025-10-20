@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
 subtitle: Ph.D. Student in Statistics<!--<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.-->
 
