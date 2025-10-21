@@ -462,11 +462,11 @@ ninja.data = [{
           window.open("mailto:%67%6F%7A%64%65%73%65%72%74@%74%61%6D%75.%65%64%75", "_blank");
         },
       },{
-        id: 'social-github',
-        title: 'GitHub',
+        id: 'social-scholar',
+        title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/gozdesert", "_blank");
+          window.open("https://scholar.google.com/citations?user=https://scholar.google.com/citations?user=jFpenCwAAAAJ&hl=en", "_blank");
         },
       },{
         id: 'social-linkedin',
@@ -476,18 +476,18 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/https://www.linkedin.com/in/g%C3%B6zde-sert-1230a2131/", "_blank");
         },
       },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/gozdesert", "_blank");
+        },
+      },{
         id: 'social-rss',
         title: 'RSS Feed',
         section: 'Socials',
         handler: () => {
           window.open("/feed.xml", "_blank");
-        },
-      },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://scholar.google.com/citations?user=https://scholar.google.com/citations?user=jFpenCwAAAAJ&hl=en", "_blank");
         },
       },{
       id: 'light-theme',
