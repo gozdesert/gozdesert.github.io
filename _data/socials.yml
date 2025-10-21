@@ -33,7 +33,7 @@ linkedin_username: https://www.linkedin.com/in/g%C3%B6zde-sert-1230a2131/ # your
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
 # research_gate_profile: # your profile on ResearchGate
-rss_icon: true # comment this line to hide the RSS icon
+rss_icon: false # comment this line to hide the RSS icon
 scholar_userid: https://scholar.google.com/citations?user=jFpenCwAAAAJ&hl=en # your Google Scholar ID
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
