@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>BLOC 405B</p>
     <p>Department of Statistics, Texas A&M University</p>
-    <p>College Station, Texas, 77843</p>
+    <p>College Station, TX</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
