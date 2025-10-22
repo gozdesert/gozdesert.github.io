@@ -271,11 +271,15 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Sert]
+  first_name: [Gözde]
 
   style: apa
   locale: en
+
+  sort_by: none # Add this line to disable sorting within groups
+  group_by: year
+  group_order: descending
 
   source: /_bibliography/
   bibliography: papers.bib
