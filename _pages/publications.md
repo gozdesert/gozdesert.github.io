@@ -36,7 +36,9 @@ Targeted doubly robust estimation of treatment
 effects},
 journal = {Submitted},
 year = {2025+},
-author = {{\bf Gözde Sert} and Abhishek Chakrabortty and Anirban Bhattacharya}
+author = {{\bf Gözde Sert} and Abhishek Chakrabortty and Anirban Bhattacharya},
+abstract = {We propose a semiparametric Bayesian methodology for estimating the average treatment effect (ATE) within the potential outcomes framework using observational data with high-dimensional nuisance parameters. Our method introduces a Bayesian debiasing procedure that corrects for bias arising from nuisance estimation and employs a targeted modeling strategy based on summary statistics rather than the full data. These summary statistics are identified in a debiased manner, enabling the estimation of nuisance bias via weighted observables and facilitating hierarchical learning of the ATE. By combining debiasing with sample splitting, our approach separates nuisance estimation from inference on the target parameter, reducing sensitivity to nuisance model specification. We establish that, under mild conditions, the marginal posterior for the ATE satisfies a Bernstein-von Mises theorem when both nuisance models are correctly specified and remains consistent and robust when only one is correct, achieving Bayesian double robustness. This ensures asymptotic efficiency and frequentist validity. Extensive simulations confirm the theoretical results, demonstrating accurate point estimation and credible intervals with nominal coverage, even in high-dimensional settings. The proposed framework can also be extended to other causal estimands, and its key principles offer a general foundation for advancing Bayesian semiparametric inference more broadly.},
+website = {https://drive.google.com/file/d/1YZo0rAd0TLCaT6mknZ8fWo3W16sZJjqB/view?usp=sharing}
 }
 
 
