@@ -38,3 +38,11 @@ journal = {Submitted},
 year = {2025+},
 author = {{\bf Gözde Sert} and Abhishek Chakrabortty and Anirban Bhattacharya}
 }
+
+
+@article{sertUnified,
+title = {Unified Bayesian debiased summary statistic modeling and inference for structural parameters},
+journal = {In progress},
+year = {2025+},
+author = {{\bf Gözde Sert} and Abhishek Chakrabortty and Anirban Bhattacharya}
+}
