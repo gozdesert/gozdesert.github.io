@@ -26,8 +26,8 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts-->
 ---
-
-Hi, I am Gözde Sert. I am currently in my fifth-year in the <span style="color:#B8333A;">TAMU</span>. Advised .....
+I am a doctoral candidate in the Department of Statistics at [Texas A&M University](https://www.tamu.edu), advised by Professors [Anirban Bhattacharya](https://sites.google.com/view/anirban-bhattacharya-tamu/home) and [Abhishek Chakrabortty](https://scholars.library.tamu.edu/vivo/display/na7196269/Persons/View%20All).
+<!--Hi, I am Gözde Sert. I am currently in my fifth-year in the <span style="color:#B8333A;">TAMU</span>. Advised .....-->
 
 <!--Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
