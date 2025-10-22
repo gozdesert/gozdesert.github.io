@@ -29,7 +29,7 @@ announcements:
 I am a doctoral candidate in the [Department of Statistics](https://artsci.tamu.edu/statistics/index.html) at [Texas A&M University](https://www.tamu.edu), advised by Professors [Anirban Bhattacharya](https://sites.google.com/view/anirban-bhattacharya-tamu/home) and [Abhishek Chakrabortty](https://scholars.library.tamu.edu/vivo/display/na7196269/Persons/View%20All). I earned my master's degree in mathematics from [Pennsylvania State University](https://www.psu.edu) and my bachelor's degree in mathematics from [Boğaziçi University](https://bogazici.edu.tr/en).
 
 ## Research Interests
-
+My research develops new **Bayesian methodologies for semiparametric inference**, advancing **robust and efficient tools** for modern data problems with applications in **semi-supervised learning**, **causal inference**, **missing data**, and **transfer learning**.
 <!--Hi, I am Gözde Sert. I am currently in my fifth-year in the <span style="color:#B8333A;">TAMU</span>. Advised .....-->
 
 <!--Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
