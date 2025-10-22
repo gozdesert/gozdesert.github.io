@@ -272,7 +272,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Sert]
-  first_name: [Gözde]
+  first_name: [Gözde, G.]
 
   style: apa
   locale: en
