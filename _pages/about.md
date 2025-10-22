@@ -31,7 +31,7 @@ I am a doctoral candidate in the [Department of Statistics](https://artsci.tamu.
 ## Research Interests
 My research develops new **Bayesian methodologies for semiparametric inference**, advancing *robust and efficient tools* for modern data problems with applications in **semi-supervised learning**, **causal inference**, **missing data**, and **transfer learning**.
 
-For more insights into my work, visit the [publications page]({% link _pages/publications.md %}).
+For more insights into my work, visit the [Publications]({% link _pages/publications.md %}) page.
 <!--Hi, I am Gözde Sert. I am currently in my fifth-year in the <span style="color:#B8333A;">TAMU</span>. Advised .....-->
 
 <!--Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
