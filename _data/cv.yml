@@ -1,97 +1,151 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
-
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: "PhD in Statistics"
+      institution: "Texas A&M University, College Station, TX"
+      year: "Expected May 2026"
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - "Advisors: Anirban Bhattacharya & Abhishek Chakrabortty"
+    - title: "M.S. in Mathematics"
+      institution: "Penn State University, University Park, PA"
+      year: 2021
       description:
-        - Description 1.
-        - Description 2.
-
-- title: Experience
-  type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+        - "Minor: Statistics"
+        - "Advisor: Donald Richards"
+    - title: "M.S. in Mathematics"
+      institution: "Bogazici University, Istanbul, Turkey"
+      year: 2018
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+        - "Advisor: Olcay Coskun"
+    - title: "B.S. in Mathematics"
+      institution: "Bogazici University, Istanbul, Turkey"
+      year: 2016
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: Research Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - "Bayesian non-parametric inference"
+    - "Bayesian semi-parametric inference"
+    - "Bayesian debiasing methods"
+    - "Semi-supervised learning"
+    - "Causal inference"
+    - "Missing data theory"
+    - "Transfer learning"
+    - "High-dimensional semi-parametric inference"
+    - "Functional data analysis"
+    - "Probability theory"
+
+- title: Published Papers
+  type: list
+  contents:
+    - "<b>Sert, G.</b>, Chakrabortty, A., & Bhattacharya, A. (2025). Bayesian semi-supervised inference via a debiased modeling approach. <i>Econometrics and Statistics</i>."
+
+- title: Submitted Papers
+  type: list
+  contents:
+    - "<b>Sert, G.</b>, Chakrabortty, A., & Bhattacharya, A. (2025). Bayesian semi-parametric causal inference: Targeted doubly robust estimation of treatment effects. (Under review)."
+    - "<b>Sert, G.</b>, & Zamora, S. (2018). On unfoldings of stretched polyhedra. (Resubmitted to the <i>American Mathematical Monthly</i>)."
+
+- title: Presentations
+  type: time_table
+  contents:
+    - title: "14th International Conference on Bayesian Nonparametrics (BNP 14)"
+      year: 2025
+      description: "Bayesian Semiparametric Causal Inference: Targeted Doubly Robust Estimation of Treatment Effects. UCLA, CA."
+    - title: "International Indian Statistical Association (IISA) Annual Conference"
+      year: 2025
+      description: "Bayesian Semi-supervised Inference via a Debiased Modeling Approach. Lincoln, NE."
+    - title: "The Southeast Texas Chapter of the American Statistical Association (SETCASA) Annual Meeting"
+      year: 2025
+      description: "Bayesian Semiparametric Causal Inference: Targeted Doubly Robust Estimation of Treatment Effects. College Station, TX."
+    - title: "IMS International Conference on Statistics and Data Science (ICSDS)"
+      year: 2024
+      description: "Bayesian Semi-supervised Inference via a Debiased Modeling Approach. Nice, France."
+    - title: "ASA Joint Statistical Meetings (JSM)"
+      year: 2024
+      description: "Bayesian Semi-supervised Inference via a Debiased Modeling Approach. Portland, OR."
+    - title: "SETCASA Annual Meeting and Poster Competition"
+      year: 2024
+      description: "Bayesian Semi-supervised Inference via a Debiased Modeling Approach. College Station, TX."
+    - title: "The 37th New England Statistics Symposium (NESS)"
+      year: 2024
+      description: "Bayesian Semi-supervised Inference via a Debiased Modeling Approach. Storrs, CT."
+
+- title: Scholarships & Awards
+  type: time_table
+  contents:
+    - year: 2025
+      title: "TAMU Graduate and Professional School Research Travel Award"
+    - year: 2025
+      title: "Finalist, IISA Student Paper Competition in Probability and Theory of Statistics and Data Science"
+    - year: 2024
+      title: "The Texas A&M University Statistics Department Graduate Student Travel Award"
+    - year: 2024
+      title: "The Texas A&M University Doctoral Student Research, Travel, and Professional Development Award"
+    - year: 2024
+      title: "IMS International Conference on Statistics and Data Science (ICSDS) Student Travel Award"
+    - year: 2024
+      title: "ASA Section on Bayesian Statistical Science (SBSS) Student Paper Award"
+    - year: 2024
+      title: "American Association for the Advancement of Science (AAAS) Section U on Statistics Student Travel Award"
+    - year: 2024
+      title: "Southeastern Texas ASA (SETCASA) Poster Competition, Honorable Mention"
+    - year: 2023
+      title: "The Texas A&M University Statistics Department Graduate Student Travel Award"
+    - year: 2023
+      title: "The Texas A&M Statistics Graduate Student Association (SGSA) Award"
+    - year: 2022
+      title: "The Ruth J. and Howard F. Newton Memorial Graduate Student Teaching Award"
+    - year: 2016-2018
+      title: "Graduate Scholarship, Scientific and Technological Research Council of Turkey"
+    - year: 2011-2016
+      title: "Undergraduate Scholarship, Scientific and Technological Research Council of Turkey"
+
+- title: Teaching Experience
+  type: time_table
+  contents:
+    - title: "Teaching Assistant"
+      institution: "Texas A&M University"
+      year: "2021-Present"
+      description:
+        - "Courses: STAT 612, STAT 312, STAT 438, STAT 641, STAT 607, STAT 407, STAT 211, STAT 415, STAT 601"
+    - title: "Instructor"
+      institution: "Penn State University"
+      year: "2019-2020"
+      description:
+        - "Course: MATH 22"
+    - title: "Teaching Assistant"
+      institution: "Penn State University"
+      year: "2018-2021"
+      description:
+        - "Courses: MATH/STAT 418, MATH 250, MATH 251, MATH/STAT 416, MATH 502, MATH 22, MATH 485, MATH 427, MATH 34"
+    - title: "Teaching Assistant"
+      institution: "Bogazici University"
+      year: "2015-2018"
+      description:
+        - "Courses: MATH 131, MATH 101, MATH 201"
+
+- title: Service
+  type: time_table
+  contents:
+    - title: "SGSA President"
+      institution: "Texas A&M Department of Statistics"
+      year: "2024-2025"
+    - title: "Department Head Search Committee Member"
+      institution: "Texas A&M Department of Statistics"
+      year: "2024-2025"
+    - title: "SGSA Vice President"
+      institution: "Texas A&M Department of Statistics"
+      year: "2023-2024"
+    - title: "Statistics Career Night, Table Moderator"
+      institution: "Texas A&M College of Arts & Sciences"
+      year: 2024
+    - title: "SGSA StatCafe Organizer"
+      institution: "Texas A&M Department of Statistics"
+      year: "2022-2023"
+
+- title: Skills
+  type: list
+  contents:
+    - "<b>Technical Skills:</b> C, R, Python, SQL, HTML, Excel, Git, LaTeX"
+    - "<b>Languages:</b> Turkish (Native), English (Fluent), Spanish (Intermediate)"
