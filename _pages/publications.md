@@ -41,7 +41,6 @@ abstract = {We propose a semiparametric Bayesian methodology for estimating the 
 website = {https://drive.google.com/file/d/1YZo0rAd0TLCaT6mknZ8fWo3W16sZJjqB/view?usp=sharing}
 }
 
-
 @article{sertUnified,
 title = {Unified Bayesian debiased summary statistic modeling and inference for structural parameters},
 journal = {In progress},
