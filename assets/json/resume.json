@@ -26,14 +26,18 @@
       "highlights": [
         "STAT 612: Theory of Linear Models",
         "STAT 438: Bayesian Statistics",
-        "STAT 211: Principles of Statistics I"
+        "STAT 415: Mathematical Statistics II",
+        "STAT 607: Principles of Sample Surveys",
+        "STAT 312: Statistics for Biology",
+        "STAT 641: Methods of Statistics I",
+        "STAT 211: Principle of Statistics I"
       ]
     },
     {
       "name": "Penn State University",
       "position": "Instructor",
       "startDate": "2019-08-01",
-      "endDate": "2020-05-01",
+      "endDate": "2021-05-01",
       "summary": "Served as the primary instructor for MATH 22.",
       "highlights": [
         "MATH 22: College Algebra II"
@@ -46,7 +50,7 @@
       "position": "SGSA President",
       "startDate": "2024-04-01",
       "endDate": "2025-04-01",
-      "summary": "Led the Statistics Graduate Student Association, organizing events and representing graduate student interests."
+      "summary": "Led the Statistics Graduate Student Association (SGSA), organizing events and representing graduate student interests."
     },
     {
         "organization": "Texas A&M Department of Statistics",
@@ -54,6 +58,13 @@
         "startDate": "2024-03-01",
         "endDate": "2025-05-01",
         "summary": "Participated in the search and selection process for the new department head."
+    },
+    {
+        "organization": "Texas A&M Department of Statistics",
+        "position": "SGSA Vice President",
+        "startDate": "2023-04-01",
+        "endDate": "2024-04-01",
+        "summary": "Led the SGSA, organizing events and representing graduate student interests."
     }
   ],
   "education": [
@@ -111,6 +122,26 @@
       "title": "The Ruth J. and Howard F. Newton Memorial Graduate Student Teaching Award",
       "date": "2022-01-01",
       "awarder": "Texas A&M University"
+    },
+    {
+      "title": "TAMU Graduate and Professional School Research Travel Award",
+      "date": "2025-01-01",
+      "awarder": "Texas A&M University"
+    },
+    {
+      "title": "The Texas A&M University Statistics Department Graduate Student Travel Award",
+      "date": "2024-01-01",
+      "awarder": "Texas A&M University"
+    },
+    {
+      "title": "The annual IMS International Conference on Statistics and Data Science (ICSDS) Student Travel Award",
+      "date": "2024-01-01",
+      "awarder": "Institute of Mathematical Statistics"
+    },
+    {
+      "title": "The AAAS Section U on Statistics Student Travel Award",
+      "date": "2024-01-01",
+      "awarder": "American Association for the Advancement of Science"
     }
   ],
   "publications": [
