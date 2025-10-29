@@ -144,6 +144,25 @@
       "awarder": "American Association for the Advancement of Science"
     }
   ],
+    "interests": [
+    {
+      "name": "Bayesian Inference",
+      "keywords": [
+        "Non-parametric",
+        "Semi-parametric",
+        "Debiasing methods"
+      ]
+    },
+    {
+      "name": "Modern Data Science",
+      "keywords": [
+        "Semi-supervised learning",
+        "Causal inference",
+        "Missing data theory",
+        "Transfer learning"
+      ]
+    }
+  ],
   "publications": [
     {
       "name": "Bayesian semi-supervised inference via a debiased modeling approach",
@@ -186,25 +205,6 @@
     {
       "language": "Spanish",
       "fluency": "Intermediate"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Bayesian Inference",
-      "keywords": [
-        "Non-parametric",
-        "Semi-parametric",
-        "Debiasing methods"
-      ]
-    },
-    {
-      "name": "Modern Data Science",
-      "keywords": [
-        "Semi-supervised learning",
-        "Causal inference",
-        "Missing data theory",
-        "Transfer learning"
-      ]
     }
   ]
 }
