@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "Below is a summary of my resume. Please contact me at gozdesert@tamu.edu to request the full version.",
+          description: "Below is a summary of my resume. Please contact me at gozdesert@tamu.edu to                   request the full version.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
