@@ -23,8 +23,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-cv",
-          title: "CV",
+        },{id: "nav-resume",
+          title: "Resume",
           description: "Please contact me at gozdesert@tamu.edu for the full resume.",
           section: "Navigation",
           handler: () => {
