@@ -5,7 +5,7 @@ title: CV
 nav: true
 nav_order: 6
 cv_pdf: #cvSert.pdf # you can also use external links here
-description: Below is a summary of my resume. Please contact me at [gozdesert@tamu.edu](mailto:gozdesert@tamu.edu) to request the full version.
+description: Below is a summary of my resume. Please contact me at [gozdesert@tamu.edu](gozdesert@tamu.edu) to request the full version.
 toc:
   sidebar: left
 ---
