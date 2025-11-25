@@ -447,13 +447,6 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=QQPUypIAAAAJ", "_blank");
         },
       },{
-        id: 'social-linkedin',
-        title: 'LinkedIn',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.linkedin.com/in/g%C3%B6zde-sert-1230a2131", "_blank");
-        },
-      },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
