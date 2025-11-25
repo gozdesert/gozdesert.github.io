@@ -26,7 +26,7 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts-->
 ---
-I am a doctoral candidate in the [Department of Statistics](https://artsci.tamu.edu/statistics/index.html) at [Texas A&M University](https://www.tamu.edu), advised by Professors [Anirban Bhattacharya](https://sites.google.com/view/anirban-bhattacharya-tamu/home) and [Abhishek Chakrabortty](https://scholars.library.tamu.edu/vivo/display/na7196269/Persons/View%20All). I earned my master's degree in mathematics from [Pennsylvania State University](https://www.psu.edu) and my bachelor's degree in mathematics from [Boğaziçi University](https://bogazici.edu.tr/en).
+I am a doctoral candidate in the [Department of Statistics](https://artsci.tamu.edu/statistics/index.html) at [Texas A&M University](https://www.tamu.edu), advised by Professors [Anirban Bhattacharya](https://sites.google.com/view/anirban-bhattacharya-tamu/home) and <!--[Abhishek Chakrabortty](https://scholars.library.tamu.edu/vivo/display/na7196269/Persons/View%20All)-->. I earned my master's degree in mathematics from [Pennsylvania State University](https://www.psu.edu) and my bachelor's degree in mathematics from [Boğaziçi University](https://bogazici.edu.tr/en).
 
 ## Research Interests
 My research develops new **Bayesian methodologies for semiparametric inference**, advancing *robust and efficient tools* for modern data problems with applications in **semi-supervised learning**, **causal inference**, **missing data**, and **transfer learning**.
