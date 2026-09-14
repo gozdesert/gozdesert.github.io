@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://gozdesert.github.io/sitemap.xml
